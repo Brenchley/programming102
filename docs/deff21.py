@@ -5,5 +5,5 @@ def diff21(n):
    return 21-n
   else:
    return (n-21)*2
-  
-print diff21(10)
+  # this is Brenchley's
+print diff21(1076)
